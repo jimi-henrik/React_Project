@@ -1,0 +1,43 @@
+.row{
+    display: flex;
+    flex-direction: row;
+}
+
+.square{
+    width: 100px;
+    height: 100px;
+    font-size: 32;
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+    padding-bottom: 25px;
+    font-size: 30px;
+}
+
+.b-bottom-r{
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+
+}
+
+.b-bottom{
+    border-bottom: 5px solid black;
+}
+
+.b-right{
+    border-right: 5px solid black;
+}
+
+.game{
+    font-weight: bold;
+    display: flex;
+    width:100%;
+    flex-direction: column;
+    color:black;
+
+}
+
+.game button{
+
+    width: 17%;
+}

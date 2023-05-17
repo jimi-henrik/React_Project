@@ -30,7 +30,9 @@ export const Buttons = () =>{
             <button onClick={countDifClicks}>
                 {difCount} frogges
             </button>
-            <a href="https://fi.wikipedia.org/wiki/Sammakko" target="_blank" rel="noreferrer"></a>
+
+            <a href="https://fi.wikipedia.org/wiki/Sammakko" target="_blank" rel="noreferrer"> FÖR FRÖGGES</a>
+
         </div>
     );
 }
